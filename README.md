@@ -7,14 +7,7 @@ I'm a **Software Engineering student** passionate about building innovative solu
 - 🌱 Always learning and expanding my skills in **software development** <br>  
 - 💡 Interested in **web development, AI, and open-source contributions** <br>  
 - ⚡ Love **skating, football, and tech** <br>  
-
-### 📫 Let's Connect!  
-- 💻 [GitHub Profile](https://github.com/Saffster) <br>  
-- 📧 Email: i.safwaansohail@gmail.com <br>  
 - 🌐 Portfolio: <!-- [yourwebsite.com](https://yourwebsite.com) --> (Coming Soon) <br>  
-
-# 💫 About Me:
-## Hi there! 👋  <br><br>I'm a **Software Engineering student** passionate about building innovative solutions and exploring new technologies.  <br><br>### 🚀 About Me  <br>- 🔭 Currently working on my **thesis project** <br>  <br>- 🌱 Always learning and expanding my skills in **software development** <br>  <br>- 💡 Interested in **web development, AI, and open-source contributions** <br>  <br>- ⚡ Love **skating, football, and tech** <br>  <br><br>### 📫 Let's Connect!  <br>- 💻 [GitHub Profile](https://github.com/Saffster) <br>  <br>- 📧 Email: i.safwaansohail@gmail.com <br>  <br>- 🌐 Portfolio: <!-- [yourwebsite.com](https://yourwebsite.com) --> (Coming Soon) <br>  
 
 
 ## 🌐 Socials:
